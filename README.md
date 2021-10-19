@@ -8,9 +8,9 @@ David Ha
 
 ## Links
 
-- [Github Pages]()
+- [Github Pages]https://boostha.github.io/cpnt262-a2/)
 
-- [Github Repo]()
+- [Github Repo](https://github.com/boostha/cpnt262-a2.git)
 
 ## Context
 
