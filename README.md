@@ -28,7 +28,7 @@ David Ha
 
 - [Photo](https://unsplash.com/photos/8yCmQODY2SY) by [Hello Im Nik](https://unsplash.com/@helloimnik) under the [Unsplash License](https://unsplash.com/license)
 
-- [Photo](https://unsplash.com/photos/_gI_sP5K3Hc) by [Kalea Jerielle](https://unsplash.com/@kaleajerielle) under the [Unsplash License](https://unsplash.com/license)
+- [Photo](https://unsplash.com/photos/eTTlZWec6fw) by [Viktor Bystrov](https://unsplash.com/@xokvictor) under the [Unsplash License](https://unsplash.com/license)
 
 - [Photo](https://unsplash.com/photos/QfOBbZcHZBw) by [Henry](https://unsplash.com/@hurnyh) under the [Unsplash License](https://unsplash.com/license)
 
