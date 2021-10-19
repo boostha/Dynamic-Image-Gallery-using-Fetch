@@ -8,7 +8,7 @@ David Ha
 
 ## Links
 
-- [Github Pages]https://boostha.github.io/cpnt262-a2/)
+- [Github Pages](https://boostha.github.io/cpnt262-a2/)
 
 - [Github Repo](https://github.com/boostha/cpnt262-a2.git)
 
