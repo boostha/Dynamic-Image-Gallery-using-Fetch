@@ -124,16 +124,17 @@ let output = '';
 const gallery = document.querySelector('.gallery')
 
 unsplashPictures.forEach(function(picture){
-  output += `<figure>
-    <h2>${picture.title}</h2>
+  output += `
+  <figure>
+    <h2 class="title">${picture.title}</h2>
     <a href="${picture.linkURL}">
       <img src="${picture.pathURL}" alt="${picture.description}" width="${picture.width}" height="${picture.height}">
     </a>
-    <figcaption>
-      <a href="${picture.creditURL}">
-        <span>${picture.credit}</span>
-      </a>
-    </figcaption>
+  <figcaption>
+    <a class="author" href="${picture.creditURL}">
+      <span>${picture.credit}</span>
+    </a>
+  </figcaption>
   </figure>`
 })
 
