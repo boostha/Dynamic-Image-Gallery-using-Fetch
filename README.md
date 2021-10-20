@@ -15,7 +15,7 @@ David Ha
 ## Context
 
 - All Image Array requirements can be found in the main.js file
-- All information contianed in object has been used expect for Id
+- All information contained in object has been used expect for Id
 - Images and author names are clickable
 
 ## Attributions
@@ -24,7 +24,7 @@ David Ha
 
 - [Photo](https://unsplash.com/photos/ZqqlOZyGG7g) by [Daniel Cheung](https://unsplash.com/@danielkcheung) under the [Unsplash License](https://unsplash.com/license)
 
-- [Photo](ttps://unsplash.com/photos/ml2F5o0nLh8) by [Rod Long](https://unsplash.com/@rodlong) under the [Unsplash License](https://unsplash.com/license)
+- [Photo](https://unsplash.com/photos/ml2F5o0nLh8) by [Rod Long](https://unsplash.com/@rodlong) under the [Unsplash License](https://unsplash.com/license)
 
 - [Photo](https://unsplash.com/photos/8yCmQODY2SY) by [Hello Im Nik](https://unsplash.com/@helloimnik) under the [Unsplash License](https://unsplash.com/license)
 
