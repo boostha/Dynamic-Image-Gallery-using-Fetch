@@ -14,7 +14,7 @@ David Ha
 
 ## Context
 
-- All Image Array requirements can be found in the main.js file
+- All Image Array requirements can be found in the app.js file
 - All information contained in object has been used expect for Id
 - Images and author names are clickable
 
