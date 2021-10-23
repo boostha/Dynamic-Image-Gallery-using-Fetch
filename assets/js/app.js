@@ -1,3 +1,5 @@
+"use strict";
+
 const unsplashPictures = [
   {
     id: 'cPF2nlWcMY4',
